@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": "5fbed26f7fa6bc36",
+        "type": "tab",
+        "label": "Поток 1",
+        "disabled": true,
+        "info": "",
+        "env": []
+    }
+]
